@@ -1,4 +1,5 @@
-# -
+# Vuejs , Vitejs, Typescript, Tailwind, HeadlessUi, HeroIcons
+I am still working on it to improve this.
 
 This template should help get you started developing with Vue 3 in Vite.
 
